@@ -76,7 +76,7 @@ Web上的文本应该清晰明了，好让读者能够快速轻松的进行扫�
 
 这就是我在写作Web文本时遵循的几条规则，只是草稿，因为我每天都在学到更多。要是你有什么好主意，请给我写信：<hollander@mac.com>
 
->译者：也可以给我写信：<herock@gmail.com>
+>译者：也欢迎给我写信：<herock@gmail.com>
 
 [1]: http://www.madebysofa.com/archive/blog/writing-for-the-web/index.html
 [2]: http://herock.net
